@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-这行的作用是报错，停止服务，最近老有错误流量
+/*
 
 let mytoken = 'auto'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
@@ -384,3 +384,7 @@ async function getSUB(api, 追加UA, userAgentHeader) {
 	// 返回处理后的结果
 	return [订阅内容,订阅转换URLs];
 }
+
+
+
+*/
